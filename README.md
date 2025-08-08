@@ -17,8 +17,7 @@ Used the Breast Cancer Wisconsin Dataset (available in sklearn).
 - Pandas
 - Matplotlib
 
-## Metrics
-Achieved ~96% accuracy on test set.
+
 
 ## Author
 Harshitha Bhaskaran
